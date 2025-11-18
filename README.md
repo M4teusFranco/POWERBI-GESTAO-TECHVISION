@@ -1,4 +1,4 @@
-# Power BI para Gestão de Startup - Tech Vision 👓
+# Power BI para Gestão de Startup - Tech Vision
 
 <img width="1015" height="571" alt="image" src="https://github.com/user-attachments/assets/a8e714be-3965-43a6-858f-f4fa0737e421" /><br><br><br>
 
