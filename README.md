@@ -6,7 +6,7 @@
 
 Este projeto em Power BI foi desenvolvido para oferecer uma visão de gestão administrativa de uma StartUp, a Tech Vision, um Marketplace voltado para Óticas. Ele permite uma análise interativa e centralizada de indicadores chave de desempenho (KPIs), auxiliando na tomada de decisão estratégica.
 
-#### Funcionalidades principais
+#### ⚙️ Funcionalidades principais
 
 Através de filtros e gráficos, é possível:<br>
 ✅ Visualizar o desempenho geral e a evolução de métricas financeiras ao longo do tempo<br>
@@ -18,7 +18,7 @@ Este projeto utiliza dados em Excel, publicados e integrados ao Power BI, tornan
 
 🔗 Acesse o projeto completo pelo link: https://app.powerbi.com/view?r=eyJrIjoiOWYyYTg3M2QtN2RjYy00YTkxLTkxNmMtZTYwNzM4YmFkNDEwIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9
 
-#### Ferramentas utilizadas
+#### 🛠️ Ferramentas utilizadas
 
 - Power BI Desktop
 - Base de Dados (CSV)
